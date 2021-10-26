@@ -1,2 +1,17 @@
-.App {
+h3,
+button {
+  color: #ffd6a5;
+  font-family: "Zen Kurenaido", sans-serif;
+  font-weight: bolder;
+}
+button {
+  width: 150px;
+  height: 40px;
+  background-color: #c84e45;
+  border-color: #fdffb6;
+  border-style: solid;
+  border-radius: 20px;
+}
+div {
+  padding: 100px;
 }
